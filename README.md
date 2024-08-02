@@ -11,4 +11,4 @@
 
 - 📫 电子邮件：[yalois.xy@foxmail.com](mailto:yalois.xy@foxmail.com)
 - 🌐 个人网站：[www.sky233.top](https://www.sky233.top)
-- 🖋 个人博客: [blog.sky233.top](https://blog.sky233.top)
+- 🖋 个人博客：[blog.sky233.top](https://blog.sky233.top)
