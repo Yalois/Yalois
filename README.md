@@ -1,6 +1,7 @@
-# Ah, I'm Yalois 👋
 
-欢迎来到我的 GitHub 主页!
+<h1 align="center"> 👋Ah, I'm  Yalois  </h3>
+
+<h2 align="center">欢迎来到我的 GitHub 主页!</h2>
 
 ## 关于我
 
@@ -16,4 +17,5 @@
 ## 活动
 
 ![g](https://github-readme-stats.vercel.app/api?username=yalois&show_icons=true&include_all_commits=true)
-[![Yalois's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yalois&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yalois&theme=transparent&locale=zh_Hans&short_numbers=true)](https://git.io/streak-stats)
+[![Yalois's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yalois&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
